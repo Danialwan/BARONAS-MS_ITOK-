@@ -1,4 +1,4 @@
-void myplan(int plan) {
+//void myplan(int plan) {
   //taruh = drop
   if (plan == 1) {
     int a = 0;                             //JANCOK NGENE AE GAAK MARI MARI
@@ -347,6 +347,7 @@ void myplan(int plan) {
 
 
   }
+
   if (plan == 8) {
     int a = 0;
     cp[0] = 0;
